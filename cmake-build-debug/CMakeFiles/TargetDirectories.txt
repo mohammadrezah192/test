@@ -1,0 +1,3 @@
+D:/c++ practicing/Quiz/2/cmake-build-debug/CMakeFiles/2.dir
+D:/c++ practicing/Quiz/2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++ practicing/Quiz/2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
